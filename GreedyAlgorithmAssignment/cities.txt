@@ -1,0 +1,4 @@
+Boulder,CO	
+Denver,CO	
+Dallas
+Los Angeles
